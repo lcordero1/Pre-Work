@@ -1,0 +1,54 @@
+
+
+h1 {
+			color: blue;
+			text-decoration: underline;
+	}
+h3 {
+			font-style: italic; 
+			font-size: 16 pt;
+	}
+p {
+			font-size: 14pt; 
+			font-style: italic; 
+	}
+.para1 {
+			font-size: 14pt; 
+			font-style: italic; 
+	}
+.para2 {
+			font-size: 14pt;
+			font-style: verdana;
+	}
+.para3 {
+			font-size: 14pt;
+			font-style: verdana;
+	}
+
+li {
+			font-family: courier;
+			color: blue;
+		}
+body {
+			background-color: powderblue;
+
+		}
+		a:link {
+  			color: darkgreen;
+  			background-color: transparent;
+ 			 text-decoration: none;
+		}
+
+		a:visited {
+		  color: emeraldgreen;
+		  background-color: transparent;
+		  text-decoration: none;
+		}
+
+		a:hover {
+		  color: red;
+		  background-color: transparent;
+		  text-decoration: underline;
+		}
+
+
